@@ -1,11 +1,18 @@
 # Roadmap for the Arching Kaos project
-An overview of subprojects, checkpoints, stops for thought, integrations and how the Arching Kaos projects is supposed to be completed.
+*An overview of subprojects, checkpoints, stops for thought, integrations and how the Arching Kaos projects is supposed to be completed.*
+
+## Brief description
+
 
 ## The Map ( 2022-01-12 )
 > The reference "Arching Kaos" will be used while speaking for the project itself as a whole.
 
 ### Development
+Parts in need are:
 
+- [ ] - Static HTML5 page which loads the content we want
+- [ ] - Explorer of the ZCHAIN
+- [ ] - Modules
 
 ###  
 
