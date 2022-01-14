@@ -14,6 +14,8 @@ AKI Roadmap
 4. Attach features to the profile page:
 -	[ ] mixtape/add
 -	[ ] profile/edit
+
+5. Other features
 -	[ ] messages
 -	[ ] say/to
 -	[ ] say/to_channel/ (see h)
