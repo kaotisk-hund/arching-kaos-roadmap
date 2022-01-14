@@ -15,8 +15,8 @@ AKI Roadmap
 -	[ ] mixtape/add
 -	[ ] profile/edit
 -	[ ] messages
--		[ ]	say/to
--		[ ]	say/to_channel/ (see h)
+-	[ ] say/to
+-	[ ] say/to_channel/ (see h)
 -	[ ] shop/add_item
 -	[ ] shop/remove_item
 -	[ ] shop
