@@ -11,6 +11,7 @@ Apart from explaining what is in the repository, below you will find the map of 
 ## The Map of Maps
 
 - [Arching Kaos](./maps/ROADMAP.md)
+- [Arching Kaos Infochain](./maps/arching-kaos-infochain-roadmap.md)
 
 ## Jump to folder
 
