@@ -3,15 +3,15 @@
 Below you will find all the tools that have or will be developed for arching-kaos project maintainance, installation, configuration etc.
 
 ## Main
-- [ ] - akconfig
-- [ ] - enter
-- [ ] - json2bash
-- [ ] - logfollow
-- [ ] - logthis
-- [ ] - pack_z_block
-- [ ] - profile
+- [x] - akconfig
+- [x] - enter
+- [x] - json2bash
+- [x] - logfollow
+- [x] - logthis
+- [x] - pack_z_block
+- [x] - profile
 - [ ] - reference
-- [ ] - zchain-reset
+- [x] - zchain-reset
 
 ### Modules
 - [ ] - articles
@@ -22,10 +22,10 @@ Below you will find all the tools that have or will be developed for arching-kao
 - [ ] - following
 - [ ] - get-latest
 - [ ] - ipfs-starter
-- [ ] - mixtapes
-- [ ] - news
+- [x] - mixtapes
+- [x] - news
 - [ ] - repositories
-- [ ] - tempassin
+- [x] - tempassin
 - [ ] - todos
 - [ ] - unfollow
 
@@ -34,20 +34,16 @@ Below you will find all the tools that have or will be developed for arching-kao
 - [ ] - chain-explorer.js
 
 ### Configuration
-- [ ] - config.sh
+- [x] - config.sh
 
 ### Container deploying
 - [ ] - ContainerFile
 
 ### Installation
-- [ ] - init.sh
-- [ ] - install.sh
-- [ ] - ipfs-check-install-setup-init-update
+- [x] - init.sh
+- [x] - install.sh
+- [x] - ipfs-check-install-setup-init-update
 
 ## Documentation
 - [ ] - README.md
-- [ ] - roadmap
 
-#### Files used
-- [ ] - test.pk
-- [ ] - test.sk
