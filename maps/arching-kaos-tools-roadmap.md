@@ -3,9 +3,7 @@
 Below you will find all the tools that have or will be developed for arching-kaos project maintainance, installation, configuration etc.
 
 ## Main
-- [x] - akconfig
-
-It's used to print our configuration and publish it to IPNS
+- [x] - akconfig - *It's used to print our configuration and publish it to IPNS*
 
 - [x] - enter - *It's used to crawl into your zchain or somebody's else*
 
