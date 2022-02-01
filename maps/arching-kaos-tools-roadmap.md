@@ -7,37 +7,21 @@ Below you will find all the tools that have or will be developed for arching-kao
 
 It's used to print our configuration and publish it to IPNS
 
-- [x] - enter
+- [x] - enter - *It's used to crawl into your zchain or somebody's else*
 
-It's used to crawl into your zchain or somebody's else
+- [x] - json2bash - *We convert JSON to Bash compatible variables*
 
-- [x] - json2bash
+- [x] - logfollow - *To follow the logfile*
 
-We convert JSON to Bash compatible variables
+- [x] - logthis - *To add to the logfile*
 
-- [x] - logfollow
+- [x] - pack_z_block - *To pack the ZBLOCK and push it to the zchain*
 
-To follow the logfile
+- [x] - profile - *To set and get various variables*
 
-- [x] - logthis
+- [ ] - reference - *To reference ZBLOCKs together*
 
-To add to the logfile
-
-- [x] - pack_z_block
-
-To pack the ZBLOCK and push it to the zchain
-
-- [x] - profile
-
-To set and get various variables
-
-- [ ] - reference
-
-To reference ZBLOCKs together
-
-- [x] - zchain-reset
-
-Reset everything to Genesis
+- [x] - zchain-reset - *Reset everything to Genesis*
 
 ### Modules
 - [ ] - articles
