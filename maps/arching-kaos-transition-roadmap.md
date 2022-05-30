@@ -22,7 +22,7 @@ Below you can see a table with some basic utilities that arching-kaos as a proje
 - [ ] - instant messaging
 - [ ] - webpages
 - [ ] - webradio 
-  - [ ] - ak-api -> mixtapes
+  - [x] - ak-api -> mixtapes
   - [ ] - liquidsoap + icecast -> ak-dr
   - [ ] - ssb -> ?
 - [x] - donations
@@ -48,7 +48,9 @@ A member of the community can of course have a webpage. #TODO This will take mor
 Please see https://github.com/kaotisk-hund/arching-kaos-decentralized-radio .
 
 ### Donations
-Donations were accepted in BTC. However, BTC is not our best option mainly of its price and fees. Since arching-kaos supports assets on Stellar network a donation address will be available to drop some XLM, KAOTISKHUND or ARCHINGKAOS. The donations are going to be distributed to the expenses of the project as well as pay some percentage of the amount to the developer (me for now) for every commit to the project.
+Since currently Stellar network is utilized to run the project, a donation address will be available to drop some XLM, KAOTISKHUND or ARCHINGKAOS. The donations are going to be distributed to the expenses of the project as well as pay some percentage of the amount to the developer (me for now) for every commit to the project.
+
+Address to be announced.
 
 ### Payments
 Payments were not possibles in version 1. Now, there are two assets (ARCHINGKAOS and KAOTISKHUND) that can someone use to make payments to anyone they want.
@@ -56,7 +58,7 @@ Payments were not possibles in version 1. Now, there are two assets (ARCHINGKAOS
 ### Support
 For support purposes, apart from other forms of communication a _centralized_ support system is in use. Trac. Trac is an awesome tool for project management. Using it, it is fun and features that come with it make it very handy for managing projects. I had developed MPPM (my personal project manager) in PHP for the same reason and also by admiration to Trac's everything. Of course this didn't go that far.
 
-Note that I mostly focus on 3 sections of trac:
+Note that I mostly focus on 3 parts of trac:
 1. tickets
 2. milestones
 3. components with versioning 
