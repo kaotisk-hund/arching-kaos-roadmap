@@ -5,18 +5,18 @@ AKI Roadmap
 2. Implement features
 -	[x] mixtape 
 -	[ ] profile
--	[ ] messages (in away that is close to the email standards)
+-	[x] messages (in away that is close to the email standards)
 -	[ ] shop
 -	[x] news
 3. Create a page that read profile, using Stellar addresses. ProfileHandler()
 -	[ ] see if there is a data variable called zprofile on the address
 -	[ ] see if there is a post on their transactions with action=="profile/add"
 4. Attach features to the profile page:
--	[ ] mixtape/add
+-	[x] mixtape/add
 -	[ ] profile/edit
 
 5. Other features
--	[ ] messages
+-	[x] messages
 -	[ ] say/to
 -	[ ] say/to_channel/ (see h)
 -	[ ] shop/add_item

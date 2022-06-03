@@ -26,10 +26,10 @@ Below you will find all the tools that have or will be developed for arching-kao
 - [ ] - categories
 - [ ] - clean
 - [ ] - comments
-- [ ] - follow
+- [x] - follow
 - [ ] - following
-- [ ] - get-latest
-- [ ] - ipfs-starter
+- [x] - get-latest
+- [x] - ipfs-starter
 - [x] - mixtapes
 - [x] - news
 - [ ] - repositories
@@ -45,7 +45,7 @@ Below you will find all the tools that have or will be developed for arching-kao
 - [x] - config.sh
 
 ### Container deploying
-- [ ] - ContainerFile
+- [x] - ContainerFile
 
 ### Installation
 - [x] - init.sh

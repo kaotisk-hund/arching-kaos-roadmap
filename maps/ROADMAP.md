@@ -11,8 +11,8 @@
 Parts in need are:
 
 - [ ] - Static HTML5 page which loads the content we want
-- [ ] - Explorer of the ZCHAIN
-- [ ] - Modules
+- [x] - Explorer of the ZCHAIN
+- [x] - Modules
 
 ###  
 
@@ -21,12 +21,10 @@ Arching Kaos is a project that consists of communication ways, distributed files
 
 It is mainly used for a webradio.
 
-### What I want to do?
+### What I want to do? *DONE*
 I want to decentralize the current [radio station](https://radio.arching-kaos.com).
 I am thinking to use PTK and/or ARCHINGKAOS for carrying messages.
 
 ### Proof of concept
 Make on small application that demonstrates a 'news' type messages that integrates the [news repo](https://git.kaotisk-hund.com/01-NEWS/.git).
 
-## Other places to look
-Try visiting https://support.arching-kaos.net/roadmap cause it's probably things are already going on there.

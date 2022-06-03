@@ -7,7 +7,7 @@ Below you can see a table with some basic utilities that arching-kaos as a proje
 
 | Utility | V 1 | V 2 |
 |---|---|---|
-| instant messaging | irc + matrix | *tba* |
+| instant messaging | irc + matrix | ipbc |
 | webpages | nginx + fs + sql + ipfs | *tba* |
 | webradio | ak-api + ipfs + liquidsoap + icecast + webpage + ssb | mixtapes + ak-dr |
 | donations | btc | xlm |
@@ -19,7 +19,7 @@ Below you can see a table with some basic utilities that arching-kaos as a proje
 
 ## Completion stages
 
-- [ ] - instant messaging
+- [x] - instant messaging
 - [ ] - webpages
 - [ ] - webradio 
   - [x] - ak-api -> mixtapes
